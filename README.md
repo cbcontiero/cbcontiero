@@ -1,4 +1,4 @@
-👋 Olá, eu sou @cbcontiero<br>
-👀 Estou interessado em front-end<br>
-🌱 Eu estou aprendendo HTML, CSS e Javascript<br>
+👋 Olá, eu sou Giovani Contiero<br>
+👀 Estou interessado em fullstack<br>
+🌱 Eu estou aprendendo HTML, CSS e Java<br>
 💞️ Eu estou em buscar de criar conexões e aprender<br>
